@@ -35,16 +35,17 @@
    src: url(../fonts/Roboto-Italic.ttf); }
  body {
    font-family: "Roboto-Regular";
-   font-size: 16px; }
+   font-size: 30px; }
  
  h1, h2, h3, h4, h5, h6 {
    font-family: "Montserrat-Bold"; }
  
  .container-fluid {
-   padding: 0; }
+   padding:0px; }
  
  .card {
-   border: none;
+   border: 2px solid red;
+   margin:5px;
    border-radius: 0; }
    .card img {
      border-radius: 0; }
@@ -62,7 +63,7 @@
      color: #03133a; }
  
  header {
-   background-image: url(../images/home-bg.png);
+   background-image: url(../images/home-bg.jpg);
    text-align: center;
    padding: 20px 0;
    padding-bottom: 50px; }
