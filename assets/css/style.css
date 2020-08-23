@@ -136,7 +136,7 @@ html, body {
 
 .hero .container {
     position: relative;
-    height: 100%;
+    height: auto%;
 }
 
 .hero .col-md-6:first-child {
@@ -154,7 +154,7 @@ html, body {
 .hero .col-md-6:last-child {
     position: absolute;
     right: 0;
-    bottom: 0;
+    
 }
 
 .hero h1 {
