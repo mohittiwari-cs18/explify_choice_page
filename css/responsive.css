@@ -684,3 +684,558 @@
         padding-bottom: 15px;
     }
 	
+	/** home page 13 **/
+	
+    #banner_parallax.slide_banner13 .slide_cont h2 {
+        font-size: 50px;
+        line-height: 58px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .information_icon {
+        margin: 15px 0 0 0;
+    }
+    .slide_banner13 {
+        min-height: auto;
+        /* max-height: inherit;
+        padding-bottom: 50px;
+    }
+    .slide_cont {
+        margin-top: 115px;
+    }
+    .berber_side_img::after {
+        display: none;
+    }
+    .hair_menu_list_cont ul {
+        float: left;
+        width: 100%;
+    }
+    .tab_bar_section ul.nav.nav-tabs li a {
+        font-size: 15px;
+        font-weight: 500;
+        padding: 0 10px;
+        line-height: 45px;
+    }
+    .discount_section_inner {
+        top: 0;
+        left: 0;
+    }
+    .discount_section h4 {
+        line-height: 28px;
+        margin: 15px 0;
+    }
+    .discount_section h3 {
+        color: #d19d64;
+        font-size: 30px;
+        margin: 10px 0;
+        line-height: 38px;
+    }
+    .join_us_section {
+        text-align: center;
+    }
+    .join_us_section h2 {
+        margin-bottom: 15px;
+    }
+    .cont_theme_blog h3 {
+       font-size: 35px;
+       line-height: 45px;
+       font-weight: 700;
+   }
+	
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    /** basic css **/
+    .margin_top_30_respon {
+        margin-top: 30px;
+    }
+    .container {
+        max-width: 540px;
+        width: 100%:
+    }
+    .inform_dentist_botm p {
+        text-align: center;
+    }
+    p.large {
+        font-size: 14px;
+    }
+    h2 {
+       font-size: 40px;
+    }
+    .cont_theme_blog h3 {
+       font-size: 35px;
+       line-height: 45px;
+       font-weight: 700;
+    }
+    .home_page1 #banner_slide {
+        margin-bottom: 0;
+    }
+    .slide_cont {
+        text-align: center;
+    }
+    .slide_bt {
+        display: flex;
+        justify-content: center;
+    }
+    .home_page1 .slide_cont {
+        margin-top: 75px;
+    }
+    .slide_banner1 {
+        min-height: auto;
+    }
+    .slide_cont h2 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .slide_pc_img img {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 35px;
+        right: inherit;
+    }
+    .slide_pc_img {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+    .blog_feature_img img {
+        width: 100%;
+    }
+    .contact_form_inner {
+        max-width: 430px;
+        margin: 0 auto;
+    }
+    .right_bt {
+        float: right;
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        margin-top: 15px;
+    }
+    .right_bt a.bt_main {
+        width: 100%;
+    }
+    .home_page1 .padding_right_left_15 {
+        margin-bottom: 30px;
+    }
+    .layout_screen {
+        left: 0;
+        position: relative;
+        width: 100%;
+    }
+    .padding_inner {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .theme_bg {
+        min-height: auto;
+    }
+    .layout_pur_minus {
+        margin-bottom: 0;
+    }
+    .team_member_img img {
+        width: 100%;
+    }
+    .table_price {
+        margin-bottom: 30px;
+    }
+    .home_page1 .layout_padding_2 {
+        margin: 0 !important;
+    }
+    .layout_padding {
+        margin: 0 !important;
+    }
+    .blog_section {
+        margin-top: 30px;
+    }
+    .blog_feature_cantant {
+        padding: 30px 20px 20px;
+    }
+    .contact_form {
+        min-height: auto;
+        padding: 80px 30px;
+    }
+    .footer_blog {
+        display: flex;
+        margin-bottom: 25px;
+    }
+    /**** home page 2 add custom with arrange ****/
+    .margin_bottom_30 {
+        margin-bottom: 30px;
+    }
+    .target_section {
+        width: 100%;
+        background: #fff;
+        padding: 50px 25px 50px;
+        box-shadow: 0 0 45px -15px #000;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .team_blog {
+        margin-bottom: 30px;
+    }
+    .target_section .feature_icon {
+        margin-top: 25px;
+    }
+    .header .social_icons {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        border-top: solid rgba(255, 255, 255, .1) 1px;
+        padding-top: 15px;
+    }
+    .footer_style_2 img.img-responsive {
+        width: 100%;
+    }
+    .home_page2 .slide_cont {
+        margin-top: 20px;
+    }
+    .home_page2 #banner_parallax .slide_cont p {
+        line-height: 30px;
+        font-size: 22px;
+        margin-top: 30px;
+    }
+    .slide_banner2 {
+        min-height: 480px;
+    }
+    .heading_style_2 p {
+        font-size: 18px;
+        margin-top: 0;
+        margin-bottom: 45px;
+    }
+    .heading_style_2 h2 {
+        line-height: 30px;
+        margin-top: 15px;
+    }
+    .home_page2 .light_silver_2 div.layout_bt {
+        margin-bottom: 25px;
+        float: left;
+        width: 100%;
+    }
+    /** home page 3 **/
+    .haf_full_section.right_full::after {
+        height: 350px;
+        position: relative;
+        width: 100%;
+    }
+    .haf_full_section.left_full::after {
+        height: 350px;
+        position: relative;
+        width: 100%;
+    }
+    .center_padding {
+        padding: 75px 0 60px;
+    }
+    .home_page3 .slide_cont h2 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .home_page3 section#banner_parallax.slide_banner3 .slide_cont p {
+        font-size: 20px;
+    }
+    .slide_banner3 h2::after {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .slide_banner3 {
+        min-height: 720px;
+    }
+    .information_blog h3 {
+        font-size: 21px;
+    }
+    .information_blog {
+        margin: 15px 0;
+    }
+    /** side bar **/
+    .toggle_side_bar {
+        display: block;
+    }
+    .sidenav {
+        height: 100%;
+        width: 0;
+    }
+    .sidebar_page {
+        margin-left: 0;
+    }
+    .sidenav .closebtn {
+        display: block;
+    }
+    /** home page 4 **/
+    .overlap_top_img_main {
+        margin: -70px 0 0 0;
+        width: 100%;
+    }
+    .brand_logo_section li {
+        width: 33.33%;
+        padding: 0 15px;
+    }
+    .slide_banner4 h2 strong {
+        font-size: 50px;
+    }
+    .slide_banner4 h2::after {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .home_page4 .slide_cont p {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .golden_yellow_theme a.transparent_bt {
+        padding: 0 10px;
+        min-width: 148px;
+        line-height: 45px;
+        font-size: 13px;
+    }
+    .bt_main {
+        font-size: 13px;
+        min-width: 120px;
+        height: 45px;
+        line-height: 45px;
+        padding: 0 10px;
+    }
+    #contant_slider .carousel-indicators {
+        display: flex;
+        bottom: -80px;
+    }
+    .heading_style_4 p {
+        font-size: 16px;
+    }
+    .heading_style_4 h2 {
+        font-size: 28px;
+        color: #343434;
+        line-height: 40px;
+    }
+    .tab_head ul {
+        display: block;
+    }
+    .blog_section.style_2 .blog_head {
+        font-size: 18px;
+    }
+    .contact_form {
+        padding: 80px 30px 80px;
+    }
+    /** home page 5 **/
+    .screen_website_bannr {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .slide_banner5 {
+        margin-bottom: 0;
+    }
+    .heading_style_5 .small_text {
+        margin: 0 0 10px 0;
+    }
+    .layout_pur_minus img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    .overlap_top_img_main {
+        margin: 0;
+        width: 100%;
+    }
+    .feature_cs img {
+        width: 100%;
+    }
+    /** home page 6 **/
+    .header.header_style4.header_left_side .main_menu {
+        float: right !important;
+    }
+    .home_page6 .slide_cont {
+        margin-top: 280px;
+    }
+    .heading_style_6 h2 {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .padding_right_left_25 {
+        margin-top: 50px;
+    }
+    .blog_news1 {
+        padding: 35px;
+    }
+    .gray_layer_bg .full img {
+        width: 100%;
+    }
+    .field input {
+        padding: 0 20px;
+    }
+    .contact_form_layout .field textarea {
+        padding: 5px 20px;
+    }
+    /** home page 7 **/
+    .header_style5 div.menu > ul > li > a {
+        padding: 10px 18px;
+    }
+    .header_top p {
+        margin: 0;
+        color: #555;
+        font-size: 13px;
+        margin: 5px 0 5px;
+    }
+    .right_section_bottom_header {
+        display: flex;
+        justify-content: center;
+        border-top: solid #ddd 1px;
+        margin-top: 10px;
+    }
+    #searchbar {
+        width: 90%;
+        right: 5%;
+        top: 50px;
+    }
+    .slide_banner7 .slide_cont h2 {
+        line-height: normal;
+        font-size: 24px;
+    }
+    .slide_inform {
+        text-align: left;
+    }
+    .slider_information {
+        display: flex;
+        justify-content: center;
+    }
+    .heading_style_7 h2 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .full.bottm_bt_style {
+        position: relative;
+        bottom: 0;
+        right: 0;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .inform_ser_blogs_3 ul li {
+        width: 100%;
+    }
+    .position_abs {
+        position: relative;
+    }
+    .hight_100_per {
+        margin-bottom: 35px;
+    }
+    .left_head ul {
+        margin: 12px 0 11px;
+        float: left;
+        width: 100%;
+    }
+    /** home page 8 **/
+    .with_out_menu_header div.left_head ul li {
+        display: inline;
+        margin-right: 0;
+        font-size: 14px;
+        color: #fff;
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .home_page8 .right_head {
+        display: none;
+    }
+    .layout_bt {
+        float: left;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .service_info_sec {
+        margin-top: 30px;
+        position: relative;
+        margin-bottom: -20px;
+    }
+    .heading_style_8 h2 {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .tab_bar .tags li {
+        float: left;
+        margin: 3px;
+    }
+    #testimoial_slider {
+        margin-bottom: 80px;
+    }
+    .why_peoeple_choose .col-md-2 {
+        margin-bottom: 25px;
+    }
+    /** home page 9 **/
+    #banner_parallax.slide_banner9 h2 {
+        font-size: 50px;
+    }
+    .cont_boder_style_slide::after {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .hiren_img {
+        margin-top: 30px;
+    }
+    .feature_cs img {
+        width: 100%;
+    }
+    /** home page 10 **/
+    #banner_parallax.slide_banner10 h2 {
+        font-size: 50px;
+    }
+    .cont_boder_style_slide::after {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .hiren_img {
+        margin-top: 30px;
+    }
+    .feature_cs img {
+        width: 100%;
+    }
+    .slide_banner10 .slider_information ul li {
+        display: flex;
+        margin: 15px 0;
+        float: left;
+        width: 100%;
+        justify-content: center;
+    }
+    /** home page 11 **/
+    .play_section {
+        position: relative;
+    }
+    .weekend_section_inner .play_pause_control {
+        padding-left: 35px;
+    }
+    .weeked_section .play_pause {
+        left: 0;
+    }
+    .click_section_form_change_vedio .float-left {
+        width: 100%;
+    }
+    .click_section_form_change_vedio .profile_uploaded {
+        text-align: center;
+        margin: 0;
+    }
+    .click_section_form_change_vedio .profile_cont_uploaded {
+        margin-left: 0;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .click_section_form_change_vedio .float-right {
+        margin-top: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .profile_cont {
+        display: block;
+    }
+    /** home page 12 **/
+    .span2 {
+        width: 100%;
+    }
+    .cake_club .menu > ul > li > a {
+        font-size: 13px;
+        margin: 0;
+    }
+    .cake_club .menu > ul > li a > {
+        font-size: 14px;
+    }
+    .cake_club .menu > ul > li > a {
+        font-size: 14px;
+   
