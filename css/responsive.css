@@ -697,7 +697,7 @@
     }
     .slide_banner13 {
         min-height: auto;
-        max-height: inherit;
+        /* max-height: inherit;
         padding-bottom: 50px;
     }
     .slide_cont {
@@ -3342,4 +3342,4 @@
         display: none;
     }
 }
-
+ */
