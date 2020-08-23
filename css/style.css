@@ -1,0 +1,261 @@
+html,
+body {
+    color: #898989;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    overflow-x: hidden !important;
+}
+
+h2
+ {
+    letter-spacing: 0;
+    font-weight: normal;
+    position: relative;
+    padding: 0;
+    font-weight: normal;
+    line-height: normal;
+    color: #1f1f1f;
+    margin: 0;
+}
+
+
+
+a,
+.btn {
+    text-decoration: none !important;
+    outline: none !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.btn-custom {
+    margin-top: 20px;
+    background-color: transparent;
+    border: 2px solid #ddd;
+    padding: 12px 40px;
+    font-size: 16px;
+}
+
+a.btn:hover,
+button.btn:hover,
+a.btn:focus,
+button.btn:focus {
+    background: #252525;
+    color: white;
+}
+
+button {
+	transition: ease all 0.5s;
+	cursor: pointer;
+}
+
+.bt_main {
+
+    color: #fff;
+    font-size: 14px;
+    min-width: 148px;
+    float: left;
+    text-align: center;
+    height: 48px;
+    line-height: 50px;
+    font-weight: 500;
+    border: none;
+    padding: 0 35px;
+    transition: ease all 0.5s;
+
+}
+
+.bt_main:hover,
+.bt_main:focus {
+    color: #fff;
+}
+
+.reverse_bt.bt_main {
+    color: #fff;
+}
+
+.white_bt.bt_main {
+    background: #fff;
+}
+
+.white_bt.bt_main:hover,
+.white_bt.bt_main:focus {
+    color: #fff;
+}
+
+
+.field button:hover, .field button:focus {
+    background: #ffffff;
+    color: #1e72bc;
+}
+
+
+
+h2 {
+    font-size: 54px;
+    font-weight: 500;
+    letter-spacing: -2px;
+    position: relative;
+    margin-bottom: 25px;
+    line-height: 50px;
+    position: relative;
+}
+
+
+
+
+
+.container {
+    width: 1200px;
+    max-width: 1200px;
+}
+
+ 
+
+ .full {
+    width: 100%;
+    float: left;
+    margin: 0 3px;
+    padding: 0;
+}
+
+
+    .div {
+        width:50%;
+        margin : 0;
+        float : left ;
+        justify-items: center;
+        }
+
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.right_side {
+    float: right;
+}
+
+.text_align_right {
+    text-align: right;
+}
+
+.left_side {
+    float: left;
+ }
+
+
+ 
+
+/*-- logo --**/
+
+ .header {
+    padding: 10px 0;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 15px 30px -25px #000;
+} 
+
+.logo {
+    margin: 13px 0 13px;
+    float: left;
+}  */
+/*------------------------------------------------------------------
+        6. main banner
+-------------------------------------------------------------------*/
+
+.slide_cont {
+    float: left;
+    width: 100%;
+    margin-top: 85px;
+}
+
+.slide_cont h2 {
+    color: #fff;
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 60px;
+    margin: 0;
+    letter-spacing: -1px;
+    margin-bottom: 30px;
+}
+
+#banner_parallax p, 
+#banner_slide p {
+    color: #fff;
+    font-weight: 300;
+    margin-top: 10px;
+    position: relative;
+    left: 0;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.slide_banner1 {
+    background-image: url('../images/slide1.png');
+    min-height: 450px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom center;
+}
+
+.slide_pc_img {
+    position: relative;
+    z-index: 1;
+    margin-bottom: -130px;
+}
+
+.slide_pc_img img {
+    margin-top: 110px;
+    float: left;
+    margin-right: 0;
+    position: relative;
+    right: 150px;
+    margin-bottom: 0;
+}
+
+#banner_slide .cont_banner_center {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#banner_slide {
+    position: relative;
+}
+
+#banner_slide img {
+    width: 100%;
+}
+
+.home_page1 .slide_cont {
+    margin-top: 135px;
+}
+
+.home_page1 #banner_slide {
+    margin-bottom: -145px;
+}
+
+.slide_cont .bt_main {
+    margin-top: 10px;
+}
+
+
+
+
