@@ -124,7 +124,7 @@ header hr {
 /* about section */
 .about {
   background: #fff;
-  box-shadow: 5px 5px 5px 5px  grey;
+  box-shadow: 2px 2px 2px 2px  red;
   border-radius:15px;
 
 }
@@ -168,7 +168,7 @@ header hr {
 /* languages section */
 .languages {
   background: white;
-  box-shadow: 5px 5px 5px 5px grey;
+  box-shadow: 2px 2px 2px 2px  grey;
   border-radius:15px;
 }
 .languages ul {
@@ -181,7 +181,7 @@ header hr {
 /* contact section */
 .contact {
   background: white;
- box-shadow: 5px 5px 5px 5px grey;
+ box-shadow: 2px 2px 2px 2px  grey;
  border-radius:15px;
 }
 .contact .fa {
