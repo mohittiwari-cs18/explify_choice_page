@@ -33,9 +33,9 @@ h2 {
 }
 
 .accent {
-  font-family: 'Proxima Bold';
+  font-family: 'Open sans';
   line-height: 14px;
-  color: #60A9F0;
+ 
 }
 
 .bold {
@@ -43,13 +43,10 @@ h2 {
  
 }
 
-.tm-border {
-	border: 5px solid #1bb1dc;
-	box-shadow: 2px 2px #000;
-}
+
 
 .shadow {
-  text-shadow: 1px 1px #000;
+ 
   color:#1bb1dc
 }
 
@@ -108,8 +105,8 @@ header {
   min-height: 400px;
   overflow: hidden;
   position: relative;
-  padding-top: 160px;
-  padding-bottom: 140px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 header img {
   display: inline-block !important;
@@ -129,7 +126,7 @@ header hr {
 .about {
   background: #fff;
   border-radius:15px;
-  box-shadow: 2px 2px 2px 2px  grey;
+  box-shadow: 2px 2px 2px 2px  aliceblue;
 
 
 }
@@ -173,7 +170,7 @@ header hr {
 /* languages section */
 .languages {
   background: white;
-  box-shadow: 2px 2px 2px 2px  grey;
+  box-shadow: 2px 2px 2px 2px aliceblue;
   border-radius:15px;
 }
 .languages ul {
@@ -186,7 +183,7 @@ header hr {
 /* contact section */
 .contact {
   background: white;
- box-shadow: 2px 2px 2px 2px  grey;
+ box-shadow: 2px 2px 2px 2px  aliceblue;
  border-radius:15px;
 }
 .contact .fa {
