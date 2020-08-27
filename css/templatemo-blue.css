@@ -20,7 +20,8 @@ html {
 }
 
 h1 {font-size:40px;
-color:#1bb1dc}
+color:#1bb1dc;
+font-family: 'Open-Sans';}
 h2 {font-size:36px;}
 h3 {font-size:30px;}
 h4 {font-size:24px;}
@@ -120,12 +121,16 @@ header hr {
   border-color: #1bb1dc;
   width: 100px;
 }
+.imgwidth{
+  width:250px;
+}
 
 /* about section */
 .about {
   background: #fff;
-  box-shadow: 2px 2px 2px 2px  grey;
   border-radius:15px;
+  box-shadow: 2px 2px 2px 2px  grey;
+
 
 }
 
